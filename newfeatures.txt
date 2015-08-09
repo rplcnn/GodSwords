@@ -1,0 +1,10 @@
+-> NewGUI 
+-> Sound
+-> Effects
+-> New swords
+-> New bows
+-> Command on buy.
+-> Config file.
+-> Messages file.
+-> 2 permission.
+-> Signs.
